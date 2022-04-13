@@ -1,0 +1,13 @@
+C:\Users\murat\Desktop\Yazılım\Forza\Forza_Metal\Forza_Metal\obj\Release\Forza_Metal.csprojAssemblyReference.cache
+C:\Users\murat\Desktop\Yazılım\Forza\Forza_Metal\Forza_Metal\obj\Release\Forza_Metal.FrmAna.resources
+C:\Users\murat\Desktop\Yazılım\Forza\Forza_Metal\Forza_Metal\obj\Release\Forza_Metal.FrmAnaSayfa.resources
+C:\Users\murat\Desktop\Yazılım\Forza\Forza_Metal\Forza_Metal\obj\Release\Forza_Metal.FrmGiris.resources
+C:\Users\murat\Desktop\Yazılım\Forza\Forza_Metal\Forza_Metal\obj\Release\Forza_Metal.FrmKilit.resources
+C:\Users\murat\Desktop\Yazılım\Forza\Forza_Metal\Forza_Metal\obj\Release\Forza_Metal.FrmSecenekler.resources
+C:\Users\murat\Desktop\Yazılım\Forza\Forza_Metal\Forza_Metal\obj\Release\Forza_Metal.FrmUrunEkle.resources
+C:\Users\murat\Desktop\Yazılım\Forza\Forza_Metal\Forza_Metal\obj\Release\Forza_Metal.FrmVeriGirisi.resources
+C:\Users\murat\Desktop\Yazılım\Forza\Forza_Metal\Forza_Metal\obj\Release\Forza_Metal.FrmHaraketler.resources
+C:\Users\murat\Desktop\Yazılım\Forza\Forza_Metal\Forza_Metal\obj\Release\Forza_Metal.Properties.Resources.resources
+C:\Users\murat\Desktop\Yazılım\Forza\Forza_Metal\Forza_Metal\obj\Release\Forza_Metal.csproj.GenerateResource.cache
+C:\Users\murat\Desktop\Yazılım\Forza\Forza_Metal\Forza_Metal\obj\Release\Forza_Metal.exe.licenses
+C:\Users\murat\Desktop\Yazılım\Forza\Forza_Metal\Forza_Metal\obj\Release\Forza_Metal.csproj.CoreCompileInputs.cache
